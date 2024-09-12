@@ -1,0 +1,3 @@
+﻿  TaskApp.cpp
+C:\Users\austi\source\repos\TaskApp\TaskApp\TaskApp.cpp(261): warning C4715: 'Menu': not all control paths return a value
+  TaskApp.vcxproj -> C:\Users\austi\source\repos\TaskApp\x64\Debug\TaskApp.exe
